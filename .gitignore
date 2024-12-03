@@ -1,0 +1,11 @@
+*.symvers.cmd
+*.ko.cmd
+*.mod.cmd
+*.o.cmd
+*.order.cmd
+*.symvers
+*.ko
+*.mod
+*.mod.c
+*.o
+*.order 
